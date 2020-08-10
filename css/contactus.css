@@ -1,0 +1,14 @@
+h1
+{
+text-align: center;
+color: black;
+}
+h2{
+margin-bottom: 10px;
+color: black;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

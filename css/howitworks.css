@@ -1,0 +1,17 @@
+table, th, td {
+  border: 1px solid black; 
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td{
+	background-color:Lightblue;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
